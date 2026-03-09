@@ -78,30 +78,6 @@ opportunities to learn.
   </picture>
 </p>
 
----
-
-## Top Repositories
-
-<p align="center">
-  <a href="https://github.com/IMAMSK03/Imams">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=Imams&theme=radical&hide_border=true" alt="Imams"/>
-  </a>
-  <a href="https://github.com/IMAMSK03/StudentBalance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=StudentBalance&theme=radical&hide_border=true" alt="StudentBalance"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IMAMSK03/JFSD-Spring_host">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=JFSD-Spring_host&theme=radical&hide_border=true" alt="JFSD-Spring_host"/>
-  </a>
-  <a href="https://github.com/IMAMSK03/S13_frontend-hosting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=S13_frontend-hosting&theme=radical&hide_border=true" alt="S13_frontend-hosting"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IMAMSK03&color=F75C7E&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
