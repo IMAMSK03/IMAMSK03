@@ -43,10 +43,24 @@ opportunities to learn.
 
 ## Languages and Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,react,nodejs,django,spring,git,mysql,vscode&perline=6&theme=dark" alt="Skills"/>
-  </a>
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,py,java,c&theme=dark" alt="Languages"/></a>
+</p>
+
+**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Frontend"/></a>
+</p>
+
+**Backend & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=django,spring,nodejs,express&theme=dark" alt="Backend"/></a>
+</p>
+
+**Databases & Tools**
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,postman&theme=dark" alt="Tools"/></a>
 </p>
 
 ---
