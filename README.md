@@ -15,6 +15,10 @@
 
 ## About Me
 
+<table>
+  <tr>
+    <td>
+
 ```text
 Computer Science Student @ KL University, Vijayawada, India
 
@@ -27,6 +31,13 @@ opportunities to learn.
 - Check out my portfolio at **[imam5.vercel.app](https://imam5.vercel.app/)**
 - Reach me at **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)**
 - All of my projects are available at **[GitHub](https://github.com/IMAMSK03?tab=repositories)**
+
+  </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,4 +56,8 @@ opportunities to learn.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Pixel Art Coding"/>
 </p>
