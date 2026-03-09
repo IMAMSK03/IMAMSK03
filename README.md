@@ -17,11 +17,11 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
 
-&nbsp; :mortar_board: &nbsp; B.Tech in Computer Science @ **KL University**, Vijayawada \
-&nbsp; :seedling: &nbsp; Building projects with **AI, ML & Web Development** \
-&nbsp; :globe_with_meridians: &nbsp; Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)** \
-&nbsp; :envelope: &nbsp; Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)** \
-&nbsp; :file_folder: &nbsp; Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
+&nbsp; B.Tech in Computer Science @ **KL University**, Vijayawada \
+&nbsp; Building projects with **AI, ML & Web Development** \
+&nbsp; Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)** \
+&nbsp; Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)** \
+&nbsp; Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
 
 <br clear="right"/>
 
