@@ -19,18 +19,21 @@
   <tr>
     <td>
 
-```text
-Computer Science Student @ KL University, Vijayawada, India
-
-I build things for the web and explore the world of AI & Machine Learning.
-I enjoy turning ideas into real projects and I am always looking for
-opportunities to learn.
+```js
+const imam = {
+    university: "KL University, Vijayawada",
+    degree: "B.Tech in Computer Science",
+    interests: ["AI", "Machine Learning", "Web Dev"],
+    currentlyBuilding: "Full Stack Web Applications",
+    funFact: "I debug with console.log and I'm not sorry"
+};
 ```
 
-- Interested in **AI, Machine Learning, and Full Stack Web Development**
-- Check out my portfolio at **[imam5.vercel.app](https://imam5.vercel.app/)**
-- Reach me at **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)**
-- All of my projects are available at **[GitHub](https://github.com/IMAMSK03?tab=repositories)**
+| | |
+|---|---|
+| **Portfolio** | [imam5.vercel.app](https://imam5.vercel.app/) |
+| **Email** | [shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com) |
+| **Projects** | [View All Repos](https://github.com/IMAMSK03?tab=repositories) |
 
   </td>
     <td>
