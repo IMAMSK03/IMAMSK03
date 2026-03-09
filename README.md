@@ -22,16 +22,8 @@ I'm a Computer Science Student at KL University, interested in AI, Machine Learn
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-## GitHub Stats
-[![IMAMSK03's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMAMSK03&show_icons=true&theme=radical)](https://github.com/IMAMSK03)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IMAMSK03&theme=radical)](https://github.com/IMAMSK03)
-
 ## Contribution Heatmap
 [![IMAMSK03's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IMAMSK03&theme=redical&area=true&hide_border=true)](https://github.com/IMAMSK03)
-
-## Trophies
-[![IMAMSK03's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IMAMSK03&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 Profile by [IMAMSK03](https://github.com/IMAMSK03)
