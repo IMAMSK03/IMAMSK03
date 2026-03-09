@@ -22,12 +22,10 @@ I'm a Computer Science Student at KL University, interested in AI, Machine Learn
 
 ## GitHub Stats & Activity
 [![IMAMSK03's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMAMSK03&show_icons=true&theme=radical)](https://github.com/IMAMSK03/github-readme-stats)
+[![IMAMSK03's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IMAMSK03&theme=radical&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Contribution Activity Tracker
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
-</picture>
+### 3D Contribution Map
+![3D Contribution Cityscape](https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/main/profile-3d-contrib/profile-night-view.svg)
 
 ---
 Profile by [IMAMSK03](https://github.com/IMAMSK03)
