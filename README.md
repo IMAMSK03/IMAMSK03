@@ -13,15 +13,15 @@
 
 ---
 
-## About Me
+## &nbsp; About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
 
-- B.Tech in Computer Science @ **KL University**, Vijayawada
-- Building projects with **AI, ML, and Web Development**
-- Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)**
-- Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)**
-- Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
+&nbsp; :mortar_board: &nbsp; B.Tech in Computer Science @ **KL University**, Vijayawada \
+&nbsp; :seedling: &nbsp; Building projects with **AI, ML & Web Development** \
+&nbsp; :globe_with_meridians: &nbsp; Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)** \
+&nbsp; :envelope: &nbsp; Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)** \
+&nbsp; :file_folder: &nbsp; Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
 
 <br clear="right"/>
 
