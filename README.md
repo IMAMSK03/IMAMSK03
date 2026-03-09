@@ -19,11 +19,13 @@
 | **Backend** | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMAMSK03&layout=compact&theme=radical&hide_border=true)](https://github.com/IMAMSK03)
 
-## Contribution Heatmap
-[![IMAMSK03's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IMAMSK03&theme=redical&area=true&hide_border=true)](https://github.com/IMAMSK03)
+## Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Currently Learning
 - Deep Learning & Neural Networks
