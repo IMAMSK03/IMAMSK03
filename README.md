@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://imam5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-imam5.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:shaikimam6288@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikimam6288-D14836?style=for-the-badguse&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/IMAMSK03"><img src="https://img.shields.io/badge/GitHub-IMAMSK03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/shaik-imam-mahabu-38b95828a/"><img src="https://img.shields.io/badge/LinkedIn-IMAMSK03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://imam5.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:shaikimam6288@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/IMAMSK03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/shaik-imam-mahabu-38b95828a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
