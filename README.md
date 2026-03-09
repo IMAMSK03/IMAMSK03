@@ -1,42 +1,10 @@
-# Hi there, I'm SHAIK IMAM MAHABU (IMAMSK03)!
+<p align="center">
+  <a href="https://imam5.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaik+Imam+Mahabu;CS+Student+%7C+AI+Enthusiast+%7C+Web+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://imam5.vercel.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+KL+University;AI+%7C+Machine+Learning+%7C+Web+Development;Always+learning+something+new!" alt="Typing SVG" />
-</a>
-
-## Skills & Tools
-
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Backend** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-
-## About Me
-
-```text
-Computer Science Student @ KL University, Vijayawada, IN
-
-I build things for the web and explore the world of AI & Machine Learning.
-I enjoy turning ideas into real projects and I'm always looking for
-opportunities to learn and collaborate.
-```
-
-- Portfolio: [imam5.vercel.app](https://imam5.vercel.app/)
-- Email: [shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)
-
-
-## Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
-</picture>
-
-## Connect with Me
-
-<p>
+<p align="center">
   <a href="https://imam5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-imam5.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:shaikimam6288@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikimam6288-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/IMAMSK03"><img src="https://img.shields.io/badge/GitHub-IMAMSK03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -44,4 +12,96 @@ opportunities to learn and collaborate.
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=IMAMSK03&color=F75C7E&style=flat-square&label=Profile+Views)
+
+## About Me
+
+```text
+Computer Science Student @ KL University, Vijayawada, India
+
+I build things for the web and explore the world of AI & Machine Learning.
+I enjoy turning ideas into real projects and I am always looking for
+opportunities to learn.
+```
+
+- Interested in **AI, Machine Learning, and Full Stack Web Development**
+- Check out my portfolio at **[imam5.vercel.app](https://imam5.vercel.app/)**
+- Reach me at **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)**
+- All of my projects are available at **[GitHub](https://github.com/IMAMSK03?tab=repositories)**
+
+---
+
+## Languages and Tools
+
+<p align="center">
+  <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="40" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+  <code><img height="40" alt="spring-boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
+  <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="40" alt="vs-code" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/IMAMSK03">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMAMSK03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="IMAMSK03's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/IMAMSK03">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMAMSK03&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IMAMSK03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMAMSK03&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## Top Repositories
+
+<p align="center">
+  <a href="https://github.com/IMAMSK03/Imams">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=Imams&theme=radical&hide_border=true" alt="Imams"/>
+  </a>
+  <a href="https://github.com/IMAMSK03/StudentBalance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=StudentBalance&theme=radical&hide_border=true" alt="StudentBalance"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IMAMSK03/JFSD-Spring_host">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=JFSD-Spring_host&theme=radical&hide_border=true" alt="JFSD-Spring_host"/>
+  </a>
+  <a href="https://github.com/IMAMSK03/S13_frontend-hosting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IMAMSK03&repo=S13_frontend-hosting&theme=radical&hide_border=true" alt="S13_frontend-hosting"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IMAMSK03&color=F75C7E&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
