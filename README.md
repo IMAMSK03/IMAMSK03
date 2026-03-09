@@ -48,36 +48,10 @@ opportunities to learn.
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/IMAMSK03">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMAMSK03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="IMAMSK03's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/IMAMSK03">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMAMSK03&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IMAMSK03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMAMSK03&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-## Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IMAMSK03&color=F75C7E&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
