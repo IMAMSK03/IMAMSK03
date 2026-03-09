@@ -1,12 +1,10 @@
 <p align="center">
-  <a href="https://imam5.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Shaik+Imam+Mahabu;CS+Student+%7C+AI+Enthusiast+%7C+Web+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=200&section=header&text=Shaik%20Imam%20Mahabu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20|%20AI%20Enthusiast%20|%20Web%20Developer&descSize=18&descAlignY=55" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
   <a href="https://imam5.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-imam5.vercel.app-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:shaikimam6288@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikimam6288-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:shaikimam6288@gmail.com"><img src="https://img.shields.io/badge/Gmail-shaikimam6288-D14836?style=for-the-badguse&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/IMAMSK03"><img src="https://img.shields.io/badge/GitHub-IMAMSK03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/shaik-imam-mahabu-38b95828a/"><img src="https://img.shields.io/badge/LinkedIn-IMAMSK03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -56,8 +54,4 @@ opportunities to learn.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IMAMSK03/IMAMSK03/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Pixel Art Coding"/>
 </p>
