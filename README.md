@@ -13,17 +13,30 @@
 
 ---
 
-## &nbsp; About Me
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
+<table>
+<tr>
+<td width="50%">
 
-&nbsp; B.Tech in Computer Science @ **KL University**, Vijayawada \
-&nbsp; Building projects with **AI, ML & Web Development** \
-&nbsp; Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)** \
-&nbsp; Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)** \
-&nbsp; Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
+### Who am I?
 
-<br clear="right"/>
+I'm a **Computer Science** student at **KL University**, Vijayawada, India. I love building things for the web and diving deep into the world of **AI & Machine Learning**.
+
+I turn ideas into real projects and I am always looking for new opportunities to grow as a developer.
+
+**Portfolio** &mdash; [imam5.vercel.app](https://imam5.vercel.app/) \
+**Email** &mdash; [shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com) \
+**Projects** &mdash; [All Repos](https://github.com/IMAMSK03?tab=repositories)
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
