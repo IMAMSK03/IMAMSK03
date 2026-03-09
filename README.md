@@ -15,32 +15,15 @@
 
 ## About Me
 
-<table>
-  <tr>
-    <td>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
-```js
-const imam = {
-    university: "KL University, Vijayawada",
-    degree: "B.Tech in Computer Science",
-    interests: ["AI", "Machine Learning", "Web Dev"],
-    currentlyBuilding: "Full Stack Web Applications",
-    funFact: "I debug with console.log and I'm not sorry"
-};
-```
+- B.Tech in Computer Science @ **KL University**, Vijayawada
+- Building projects with **AI, ML, and Web Development**
+- Portfolio: **[imam5.vercel.app](https://imam5.vercel.app/)**
+- Email: **[shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com)**
+- Projects: **[All Repos](https://github.com/IMAMSK03?tab=repositories)**
 
-| | |
-|---|---|
-| **Portfolio** | [imam5.vercel.app](https://imam5.vercel.app/) |
-| **Email** | [shaikimam6288@gmail.com](mailto:shaikimam6288@gmail.com) |
-| **Projects** | [View All Repos](https://github.com/IMAMSK03?tab=repositories) |
-
-  </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
